@@ -38,3 +38,4 @@ source ci/env.sh
     kill -9 "$victim" || true
   done
 )
+for name in bash cargo docker solana; do.fix
